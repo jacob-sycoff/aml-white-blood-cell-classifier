@@ -1,2 +1,2 @@
 # acute-myeloid-leukemia-blood-cell-classification
-Uses deep learning to classify types of white blood cells in blood smear slide images to aid in A
+This repository contains the code for a blood cell classification algorithm for use in Acute Myeloid Leukemia (AML) diagnosis. Deep learning is used to classify types of white blood cells in blood smear slide images to aid in AML diagnosis and research. It returns the number of each type of blood cell present within a set window size as well as a prediction for whether or not the patient has AML. This has the ability to revolutionize AML diagnosis, as current methods involve invasive procedures.
